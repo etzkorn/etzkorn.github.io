@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Public Health, Data Science, Biostatistics
 
-You can use the [editor on GitHub](https://github.com/etzkorn/etzkorn.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a PhD candidate in Biostatistics at the Johns Hopkins Bloomberg School of Public Health (https://www.jhsph.edu).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Biostatistics
 
-### Markdown
+I was introduced to the world of correlated data very early on. 
+As an undergraduate at Saint Olaf College, I got to be a part of an innovative course designed by Paul Roback and Julie Legler (https://bookdown.org/roback/bookdown-BeyondMLR/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For three years during graduate school, I worked with Elizabeth Colantuoni and Scott Zeger as TA for the JHSPH combined series of Longitudinal Data Analysis and Multilevel Models. 
+As a part of my dissertation research, I am working with Dr. Colantuoni on developing new functions within `frailtypack` for the joint modelling of multiple recurrent event and survival outcomes (https://cran.r-project.org/web/packages/frailtypack/index.html).
+We think these kinds of models will be important for clinical trials conducted within Intensive Care Units (ICUs).
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Data Science (Under Construction)
 
-- Bulleted
-- List
+Check back soon!
 
-1. Numbered
-2. List
+## Public Health (Under Construction)
 
-**Bold** and _Italic_ and `Code` text
+Check back soon!
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/etzkorn/etzkorn.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Personal Life (Under Construction)

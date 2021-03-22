@@ -2,9 +2,7 @@
 
 I am a PhD candidate in Biostatistics at the [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu).
 
-F9E6DD75-186C-4D86-B080-47FC189B4A56_1_101_a.jpeg
-
-![myFace](/F9E6DD75-186C-4D86-B080-47FC189B4A56_1_101_a.jpeg)
+![myFace](F9E6DD75-186C-4D86-B080-47FC189B4A56_1_101_a.jpeg)
 
 
 ## Biostatistics

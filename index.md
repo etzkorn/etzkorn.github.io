@@ -1,9 +1,10 @@
 # Public Health, Data Science, Biostatistics
 
-I am a PhD candidate in Biostatistics at the [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu).
+I am a PhD candidate in Biostatistics at the [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu) and expect to defend my dissertation in December 2021 or January 2022.
+
+As an undergraduate at [St. Olaf College](https://wp.stolaf.edu/mscs/), I studied Math, Statistics, and Environmental Studies. 
 
 ![myFace](F9E6DD75-186C-4D86-B080-47FC189B4A56_1_101_a.jpeg)
-
 
 ## Biostatistics
 
@@ -14,13 +15,13 @@ For three years during graduate school, I worked with Elizabeth Colantuoni and S
 As a part of my dissertation research, I am working with Dr. Colantuoni on developing new functions within [`frailtypack`](https://cran.r-project.org/web/packages/frailtypack/index.html) for the joint modelling of multiple recurrent event and survival outcomes.
 We think these kinds of models will be important for clinical trials conducted within Intensive Care Units (ICUs).
 
-
 ## Data Science (Under Construction)
 
-Check back soon!
+
 
 ## Public Health (Under Construction)
 
 Check back soon!
 
 ## Personal Life (Under Construction)
+

@@ -15,6 +15,8 @@ Check back soon!
 
 making a practice change here...
 
+Check out some interactive plots I made here [here](Interactive_Plots/sphere3.html).
+
 ## Biostatistics
 
 I was introduced to the world of correlated data very early on. 

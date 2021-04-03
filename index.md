@@ -13,11 +13,16 @@ Check back soon!
 
 ## Data Science (Under Construction)
 
-making a practice change here...
+I work on posture classification with chest-worn accelerometers, often embedded in ECG patches as a means to contextualize cardiac activity. 
+
+I am currently working on an R package with a vignette which I will link here in the coming months,
+but for now I will just leave you with an interactive `plotly` graphic that shows the kind of data stucture we use for classifying posture.
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://etzkorn.github.io/Interactive_Plots/sphere3.html" height="525" width="100%"></iframe>
 
 Check out some interactive plots I made here [here](Interactive_Plots/sphere3.html).
 
-## Biostatistics
+## Biostatistics (Under Construction)
 
 I was introduced to the world of correlated data very early on. 
 As an undergraduate at Saint Olaf College, I got to be a part of an innovative course designed by 

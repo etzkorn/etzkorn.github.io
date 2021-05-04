@@ -15,13 +15,13 @@ Check back soon!
 
 making a practice change here...
 
-Check out some interactive plots I made here [here](Interactive_Plots/sphere3.html).
+Check out some interactive plots I made here [here](Interactive_Plots/FullSphere_ChangePoint.html).
 
 ## Biostatistics
 
 I was introduced to the world of correlated data very early on. 
 As an undergraduate at Saint Olaf College, I got to be a part of an innovative course designed by 
-[Paul Roback and Julie Legler] (https://bookdown.org/roback/bookdown-BeyondMLR/).
+[Paul Roback and Julie Legler](https://bookdown.org/roback/bookdown-BeyondMLR/).
 
 For three years during graduate school, I worked with Elizabeth Colantuoni and Scott Zeger as TA for the JHSPH combined series of Longitudinal Data Analysis and Multilevel Models. 
 As a part of my dissertation research, I am working with Dr. Colantuoni on developing new functions within [`frailtypack`](https://cran.r-project.org/web/packages/frailtypack/index.html) for the joint modelling of multiple recurrent event and survival outcomes.

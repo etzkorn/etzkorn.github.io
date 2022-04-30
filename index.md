@@ -1,19 +1,30 @@
 # Public Health, Data Science, Biostatistics
 
-I am a PhD candidate in Biostatistics at the [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu) and expect to defend my dissertation in December 2021 or January 2022.
+I am a postdoctoral fellow with the 
+[Epidemiology and Biostatistics of Aging Training Program](https://coah.jhu.edu/graduate-programs-and-postdoctoral-training/epidemiology-and-biostatistics-of-aging/), 
+where I work with 
+[Dr. Jennifer Schrack](https://twitter.com/jenschrack?lang=en) 
+and the 
+[ENGAGE](https://engageresearchlab.org) 
+group on development of methods for analyzing data from wearable sensors in aging populations.
 
-As an undergraduate at [St. Olaf College](https://wp.stolaf.edu/mscs/), I studied Math, Statistics, and Environmental Studies. 
+I recently received my PhD in Biostatistics from the 
+[Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu)
+, under the guidance of Ciprian Crainiceanu and the WIT research group. 
+
+
+As an undergraduate at [St. Olaf College](https://wp.stolaf.edu/mscs/), I studied Math, Statistics, and Environmental Studies. I was a fellow in the Center for Interdisciplinary Research 
 
 ![myFace](Images/lacey.jpeg)
 
 
 ## Public Health (Under Construction)
 
-Check back soon!
+During my Ph.D., I collaborated with clinicians in the [Multicenter AIDS Cohort Study](https://aidscohortstudy.org) to better understand differences in physical activity and [heart health](https://pubmed.ncbi.nlm.nih.gov/31707799/) between men living with and without HIV.
 
 ## Data Science (Under Construction)
 
-I work on posture classification with chest-worn accelerometers, often embedded in ECG patches as a means to contextualize cardiac activity. 
+I work on posture classification with chest-worn accelerometers, often embedded in ECG patches, as a means to contextualize cardiac activity. 
 
 <<<<<<< HEAD
 Check out some interactive plots I made here [here](Interactive_Plots/FullSphere_ChangePoint.html).
@@ -31,12 +42,13 @@ As an undergraduate at Saint Olaf College, I got to be a part of an innovative c
 [Paul Roback and Julie Legler](https://bookdown.org/roback/bookdown-BeyondMLR/).
 
 For three years during graduate school, I worked with Elizabeth Colantuoni and Scott Zeger as TA for the JHSPH combined series of Longitudinal Data Analysis and Multilevel Models. 
-As a part of my dissertation research, I am working with Dr. Colantuoni on developing new functions within [`frailtypack`](https://cran.r-project.org/web/packages/frailtypack/index.html) for the joint modelling of multiple recurrent event and survival outcomes.
+As a part of my dissertation research, I am working with Dr. Colantuoni on developing new functions within [`frailtypack`](https://cran.r-project.org/web/packages/frailtypack/index.html) 
+for the joint modelling of multiple recurrent event and survival outcomes.
 We think these kinds of models will be important for clinical trials conducted within Intensive Care Units (ICUs).
 
 ## My life
 
-I grew up in Webster Groves, Missouri. I love crafts, my pets, and playing games.
+I grew up in Webster Groves, Missouri. I love crafts, my pets, and playing board games.
 
 ![bear](Images/bear.jpeg)
 

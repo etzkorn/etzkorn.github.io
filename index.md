@@ -12,8 +12,20 @@ I recently received my PhD in Biostatistics from the
 [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu)
 , under the guidance of Ciprian Crainiceanu and the WIT research group. 
 
+As an undergraduate at 
+[St. Olaf College](https://wp.stolaf.edu/mscs/)
+, I studied Math, Statistics, and Environmental Studies. 
+I was a fellow in the 
+[Center for Interdisciplinary Research](https://wp.stolaf.edu/cir/)
+, I assisted with research at the Cannon River Watershed Partnership (now called 
+[Clean River Partners](https://cleanriverpartners.org)
+), and I was a junior fellow at the 
+[Joint Program in Survey Methodology](https://jpsm.umd.edu/academics/junior-fellows-program) 
+when I assisted with questionnaire design at the 
+[National Agrigultural Statistics Service](https://www.nass.usda.gov/index.php).
 
-As an undergraduate at [St. Olaf College](https://wp.stolaf.edu/mscs/), I studied Math, Statistics, and Environmental Studies. I was a fellow in the Center for Interdisciplinary Research 
+
+Check out the most recent copy of my CV [here](https://etzkorn.github.io/Images/Etzkorn_CV_2022.pdf)
 
 ![myFace](Images/lacey.jpeg)
 
@@ -26,12 +38,10 @@ During my Ph.D., I collaborated with clinicians in the [Multicenter AIDS Cohort 
 
 I work on posture classification with chest-worn accelerometers, often embedded in ECG patches, as a means to contextualize cardiac activity. 
 
-<<<<<<< HEAD
 Check out some interactive plots I made here [here](Interactive_Plots/FullSphere_ChangePoint.html).
 =======
 I am currently working on an R package with a vignette which I will link here in the coming months,
 but for now I will just leave you with an interactive `plotly` graphic that shows the kind of data stucture we use for classifying posture.
->>>>>>> 4f1e75903800f86804c8a2c549a02850e3812610
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://etzkorn.github.io/Interactive_Plots/sphere3.html" height="600" width="100%"></iframe>
 

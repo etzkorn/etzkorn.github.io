@@ -1,6 +1,9 @@
 <img src="Images/lacey.jpeg" align="right" width="300">
 
-# Public Health, Data Science, Biostatistics
+
+# Lacey Etzkorn, Ph.D.
+
+#### Public Health, Data Science, Biostatistics
 
 I am a postdoctoral fellow with the 
 [Epidemiology and Biostatistics of Aging Training Program](https://coah.jhu.edu/graduate-programs-and-postdoctoral-training/epidemiology-and-biostatistics-of-aging/), 
@@ -27,12 +30,17 @@ when I assisted with questionnaire design at the
 [National Agrigultural Statistics Service](https://www.nass.usda.gov/index.php).
 
 
-Check out the most recent copy of my CV [here](https://etzkorn.github.io/Images/Etzkorn_CV_2022.pdf)
+Check out the most recent copy of my CV 
+[here](https://etzkorn.github.io/Images/Etzkorn_CV_2022.pdf).
 
 
 ## Public Health (Under Construction)
 
-During my Ph.D., I collaborated with clinicians in the [Multicenter AIDS Cohort Study](https://aidscohortstudy.org) to better understand differences in physical activity and [heart health](https://pubmed.ncbi.nlm.nih.gov/31707799/) between men living with and without HIV.
+During my Ph.D., I collaborated with clinicians in the 
+[Multicenter AIDS Cohort Study](https://aidscohortstudy.org) 
+to better understand differences in physical activity and 
+[heart health](https://pubmed.ncbi.nlm.nih.gov/31707799/) 
+between men living with and without HIV.
 
 ## Data Science (Under Construction)
 

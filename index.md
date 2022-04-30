@@ -1,3 +1,5 @@
+<img src="Images/lacey.jpeg" align="right" width="300">
+
 # Public Health, Data Science, Biostatistics
 
 I am a postdoctoral fellow with the 
@@ -27,8 +29,6 @@ when I assisted with questionnaire design at the
 
 Check out the most recent copy of my CV [here](https://etzkorn.github.io/Images/Etzkorn_CV_2022.pdf)
 
-![myFace](Images/lacey.jpeg)
-
 
 ## Public Health (Under Construction)
 
@@ -39,7 +39,7 @@ During my Ph.D., I collaborated with clinicians in the [Multicenter AIDS Cohort 
 I work on posture classification with chest-worn accelerometers, often embedded in ECG patches, as a means to contextualize cardiac activity. 
 
 Check out some interactive plots I made here [here](https://etzkorn.github.io/Images/Interactive_Plots/FullSphere_ChangePoint.html).
-=======
+
 I am currently working on an R package with a vignette which I will link here in the coming months,
 but for now I will just leave you with an interactive `plotly` graphic that shows the kind of data stucture we use for classifying posture.
 
@@ -60,5 +60,5 @@ We think these kinds of models will be important for clinical trials conducted w
 
 I grew up in Webster Groves, Missouri. I love crafts, my pets, and playing board games.
 
-![bear](Images/bear.jpeg)
+<img src="Images/bear.jpeg" align="left" height="300" width="300" >
 

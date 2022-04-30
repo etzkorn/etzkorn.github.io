@@ -38,7 +38,7 @@ During my Ph.D., I collaborated with clinicians in the [Multicenter AIDS Cohort 
 
 I work on posture classification with chest-worn accelerometers, often embedded in ECG patches, as a means to contextualize cardiac activity. 
 
-Check out some interactive plots I made here [here](Interactive_Plots/FullSphere_ChangePoint.html).
+Check out some interactive plots I made here [here](https://etzkorn.github.io/Images/Interactive_Plots/FullSphere_ChangePoint.html).
 =======
 I am currently working on an R package with a vignette which I will link here in the coming months,
 but for now I will just leave you with an interactive `plotly` graphic that shows the kind of data stucture we use for classifying posture.

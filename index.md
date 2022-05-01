@@ -3,6 +3,10 @@
 
 # Lacey Etzkorn, Ph.D.
 
+[my twitter](https://twitter.com/EtzkornLacey),
+[my CV](https://etzkorn.github.io/Images/Etzkorn_CV_2022.pdf),
+[my google scholar](https://scholar.google.com/citations?user=gFBOXV0AAAAJ&hl=en)
+
 #### Public Health, Data Science, Biostatistics
 
 I am a postdoctoral fellow with the 
@@ -28,10 +32,6 @@ I was a fellow in the
 [Joint Program in Survey Methodology](https://jpsm.umd.edu/academics/junior-fellows-program) 
 when I assisted with questionnaire design at the 
 [National Agrigultural Statistics Service](https://www.nass.usda.gov/index.php).
-
-
-Check out the most recent copy of my CV 
-[here](https://etzkorn.github.io/Images/Etzkorn_CV_2022.pdf).
 
 
 ## Public Health (Under Construction)

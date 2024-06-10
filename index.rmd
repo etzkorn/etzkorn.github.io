@@ -1,17 +1,23 @@
 ---
 title: "Lacey Etzkorn, Ph.D."
 output: html_document
-date: "`r Sys.Date()`"
+date: "Last Updated: `r Sys.Date()`"
 ---
 
 <img src="Images/ETZKON lacey.jpg" align="right" width="300">
 
-[my Google Scholar](https://scholar.google.com/citations?user=gFBOXV0AAAAJ&hl=en),
-[my NIH Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/lacey.etzkorn.1/bibliography/public/),
-[my Johns Hopkins Faculty Page](https://publichealth.jhu.edu/faculty/4768/lacey-etzkorn),
+my pages: 
+[my google scholar](https://scholar.google.com/citations?user=gFBOXV0AAAAJ&hl=en),
+[my NIH bibliography](https://www.ncbi.nlm.nih.gov/myncbi/lacey.etzkorn.1/bibliography/public/),
+[my johns hopkins faculty page](https://publichealth.jhu.edu/faculty/4768/lacey-etzkorn),
 [my ORCiD](https://orcid.org/0000-0001-7107-2763),
-[my Github](https://github.com/etzkorn),
-[my CV](https://etzkorn.github.io/Images/Etzkorn_CV_2024_Public.pdf).
+[my github](https://github.com/etzkorn),
+[my cv](https://etzkorn.github.io/Images/Etzkorn_CV_2024_Public.pdf).
+
+my affiliations:
+[the johns hopkins biostatistics center (JHBC)](https://publichealth.jhu.edu/johns-hopkins-biostatistics-center),
+[the johns hopkins center on aging and health (COAH)](https://coah.jhu.edu),
+[the ENGAGE research lab: ENerGy, activity, and AGE](https://engageresearchlab.org).
 
 #### Public Health, Data Science, Biostatistics
 

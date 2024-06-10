@@ -3,12 +3,12 @@
 
 # Lacey Etzkorn, Ph.D.
 
-[my google scholar](https://scholar.google.com/citations?user=gFBOXV0AAAAJ&hl=en)
-[my NIH Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/lacey.etzkorn.1/bibliography/public/)
-[my Johns Hopkins Faculty Page](https://publichealth.jhu.edu/faculty/4768/lacey-etzkorn)
-[my ORCiD](https://orcid.org/0000-0001-7107-2763)
-[my Github](https://github.com/etzkorn)
-[my CV](https://etzkorn.github.io/Images/Etzkorn_CV_2022.pdf)
+[my Google Scholar](https://scholar.google.com/citations?user=gFBOXV0AAAAJ&hl=en),
+[my NIH Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/lacey.etzkorn.1/bibliography/public/),
+[my Johns Hopkins Faculty Page](https://publichealth.jhu.edu/faculty/4768/lacey-etzkorn),
+[my ORCiD](https://orcid.org/0000-0001-7107-2763),
+[my Github](https://github.com/etzkorn),
+[my CV](https://etzkorn.github.io/Images/Etzkorn_CV_2024_Public.pdf).
 
 #### Public Health, Data Science, Biostatistics
 

@@ -1,23 +1,27 @@
-<img src="Images/lacey.jpeg" align="right" width="300">
+<img src="Images/ETZKON lacey.jpg" align="right" width="300">
 
 
 # Lacey Etzkorn, Ph.D.
 
-[my twitter](https://twitter.com/EtzkornLacey),
-[my CV](https://etzkorn.github.io/Images/Etzkorn_CV_2022.pdf),
 [my google scholar](https://scholar.google.com/citations?user=gFBOXV0AAAAJ&hl=en)
+[my NIH Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/lacey.etzkorn.1/bibliography/public/)
+[my Johns Hopkins Faculty Page](https://publichealth.jhu.edu/faculty/4768/lacey-etzkorn)
+[my ORCiD](https://orcid.org/0000-0001-7107-2763)
+[my Github](https://github.com/etzkorn)
+[my CV](https://etzkorn.github.io/Images/Etzkorn_CV_2022.pdf)
 
 #### Public Health, Data Science, Biostatistics
 
-I am a postdoctoral fellow with the 
-[Epidemiology and Biostatistics of Aging Training Program](https://coah.jhu.edu/graduate-programs-and-postdoctoral-training/epidemiology-and-biostatistics-of-aging/), 
+I am an assistant scientist  
 where I work with 
 [Dr. Jennifer Schrack](https://twitter.com/jenschrack?lang=en) 
 and the 
 [ENGAGE](https://engageresearchlab.org) 
 group on development of methods for analyzing data from wearable sensors in aging populations.
 
-I recently received my PhD in Biostatistics from the 
+I recently completed my postdoctoral fellowship with the 
+[Epidemiology and Biostatistics of Aging Training Program](https://coah.jhu.edu/graduate-programs-and-postdoctoral-training/epidemiology-and-biostatistics-of-aging/),
+and I received my PhD in Biostatistics from the 
 [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu)
 , under the guidance of Ciprian Crainiceanu and the WIT research group. 
 
@@ -55,7 +59,6 @@ but for now I will just leave you with an interactive `plotly` graphic that show
 
 ## Biostatistics (Under Construction)
 
-I was introduced to the world of correlated data very early on. 
 As an undergraduate at Saint Olaf College, I got to be a part of an innovative course designed by 
 [Paul Roback and Julie Legler](https://bookdown.org/roback/bookdown-BeyondMLR/).
 
@@ -63,10 +66,4 @@ For three years during graduate school, I worked with Elizabeth Colantuoni and S
 As a part of my dissertation research, I am working with Dr. Colantuoni on developing new functions within [`frailtypack`](https://cran.r-project.org/web/packages/frailtypack/index.html) 
 for the joint modelling of multiple recurrent event and survival outcomes.
 We think these kinds of models will be important for clinical trials conducted within Intensive Care Units (ICUs).
-
-## My life
-
-I grew up in Webster Groves, Missouri. I love crafts, my pets, and playing board games.
-
-<img src="Images/bear.jpeg" align="left" height="300" width="300" >
 

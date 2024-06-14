@@ -1,42 +1,73 @@
 ---
 title: "Lacey Etzkorn, Ph.D."
 output: html_document
-date: "Last Updated: `r Sys.Date()`"
 ---
+
+[my cv](https://etzkorn.github.io/Images/Etzkorn_CV_2024_Public.pdf),
+[my google scholar](https://scholar.google.com/citations?user=gFBOXV0AAAAJ&hl=en),
+[my NIH bibliography](https://www.ncbi.nlm.nih.gov/myncbi/lacey.etzkorn.1/bibliography/public/),
+[my ORCiD](https://orcid.org/0000-0001-7107-2763),
+[my github](https://github.com/etzkorn),
+[my johns hopkins faculty page](https://publichealth.jhu.edu/faculty/4768/lacey-etzkorn)
+
+Last Updated: `r Sys.Date()`
+
+I am an Assistant Scientist in the Johns Hopkins Bloomberg School of Public Health 
+[Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics). 
+As an assistant scientist, I serve as a core faculty member of the 
+[Center on Aging and Health (COAH)](https://coah.jhu.edu), 
+as a team member of the 
+[Accelerometry Resource Core (ARC)](https://coah.jhu.edu/research-programs-and-resources/accelerometry-resource-core-arc/), 
+and as a consultant in the 
+[Biostatistics Center](https://publichealth.jhu.edu/johns-hopkins-biostatistics-center).
 
 <img src="Images/ETZKON lacey.jpg" align="right" width="300">
 
-my pages: 
-[my google scholar](https://scholar.google.com/citations?user=gFBOXV0AAAAJ&hl=en),
-[my NIH bibliography](https://www.ncbi.nlm.nih.gov/myncbi/lacey.etzkorn.1/bibliography/public/),
-[my johns hopkins faculty page](https://publichealth.jhu.edu/faculty/4768/lacey-etzkorn),
-[my ORCiD](https://orcid.org/0000-0001-7107-2763),
-[my github](https://github.com/etzkorn),
-[my cv](https://etzkorn.github.io/Images/Etzkorn_CV_2024_Public.pdf).
+Broadly, my work has aimed to leverage wearable sensor data in large cohort studies to unravel the roles physical activity, sedentary behavior, and sleep play in aging and multi-morbidity. 
+As a part of the Accelerometry Research Core, I work in interdisciplinary teams of clinicians, epidemiologists, and engineers to deploy wearable sensors in clinical studies, including the 
+[National Health and Aging Trends Study (NHATS)](https://www.nhats.org), 
+the [Baltimore Longitudinal Study of Aging (BLSA)](https://www.blsa.nih.gov), 
+the [Atherosclerosis Risk in Communities Neurocognitive Study (ARIC-NCS)](https://aric.cscc.unc.edu/aric9/), 
+and more. 
+We train study staff, 
+monitor data quality and protocol adherence, 
+extract meaningful measures from the complex digitized signals, 
+and aide researchers in how to use these measures and interpret their results.
 
-my affiliations:
-[the johns hopkins biostatistics center (JHBC)](https://publichealth.jhu.edu/johns-hopkins-biostatistics-center),
-[the johns hopkins center on aging and health (COAH)](https://coah.jhu.edu),
-[the ENGAGE research lab: ENerGy, activity, and AGE](https://engageresearchlab.org).
+My work in the Accelerometry Resource Core also includes developing and validating novel measures and methods for wearable sensors. In my work with the 
+[Multicenter AIDS Cohort Study](https://statepi.jhsph.edu/mwccs/), 
+I developed novel methodologies for utilizing accelerometers on-board ECG patches to characterize posture and sedentary behavior in the free-living environment. 
+This work enabled cardiologists with the Multicenter Aids Cohort Study (MACS) to better understand differences in day-to-day heart rhythms between men living with and without HIV. 
+In my work with the Atherosclerosis Risk in Communities Neurocognitive Study (ARIC-NCS), I worked with Dr. Davoudi to validate the same accelerometer for characterizing activity intensity and to estimate activity intensity cut-points for adults in very late life. 
+These methodologies have benefited other work with the ARIC-NCS, 
+in which my collaborators have studied relationships between activity and dementia incidence.
 
-#### Public Health, Data Science, Biostatistics
+More recently, I have expanded my focus into analyzing smartphone based temporal activity diaries from parent-child dyads for the “Innovations to Generate Estimates of Children’s Soil/Dust Intake” Study 
+([INGEST](https://publichealth.jhu.edu/departments/environmental-health-and-engineering/research-and-practice/the-innovations-to-generate-estimates-of-childrens-soil/dust-intake-ingest-study)). 
+This project has not only expanded my area of work to a different population (i.e., children) and medium of data collection (i.e., complex electronic surveys) but also challenged me to consider how the environemental context of physical activities can be a key exposure of interest in public health research beyond my prior focus on amounts or intensities of physical activity. 
+
+## Mentors and Collaborators
 
 I am an assistant scientist at the Johns Hopkins Center on Aging and Health 
 where I work with 
-[Dr. Jennifer Schrack](https://twitter.com/jenschrack?lang=en) 
-and the 
-[ENGAGE](https://engageresearchlab.org) 
-group on development of methods for analyzing data from wearable sensors in aging populations.
+[Dr. Jennifer Schrack](https://publichealth.jhu.edu/faculty/2686/jennifer-a-schrack) and [Dr. Adam Spira](https://publichealth.jhu.edu/faculty/2102/adam-p-spira)
+as a part of the Accelerometry Reasearch Core (ARC).
 
 I recently completed my postdoctoral fellowship with the 
 [Epidemiology and Biostatistics of Aging Training Program](https://coah.jhu.edu/graduate-programs-and-postdoctoral-training/epidemiology-and-biostatistics-of-aging/),
 and I received my PhD in Biostatistics from the 
-[Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu)
-, under the guidance of Ciprian Crainiceanu and the WIT research group. 
+[Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu), 
+under the guidance of Ciprian Crainiceanu and the WIT research group. 
+As a part of my dissertation research, I also worked with Dr. Colantuoni to model
+recurrent delirium events in the ICU. 
+These models are now implemented in 
+[`frailtypack`](https://cran.r-project.org/web/packages/frailtypack/index.html).
+
+## My Roots
 
 As an undergraduate at 
-[St. Olaf College](https://wp.stolaf.edu/mscs/)
-, I studied Math, Statistics, and Environmental Studies. 
+[St. Olaf College](https://wp.stolaf.edu/mscs/), 
+I studied Math, Statistics, and Environmental Studies. 
 I was a fellow in the 
 [Center for Interdisciplinary Research](https://wp.stolaf.edu/cir/)
 , I assisted with research at the Cannon River Watershed Partnership (now called 
@@ -45,34 +76,7 @@ I was a fellow in the
 [Joint Program in Survey Methodology](https://jpsm.umd.edu/academics/junior-fellows-program) 
 when I assisted with questionnaire design at the 
 [National Agrigultural Statistics Service](https://www.nass.usda.gov/index.php).
-
-
-## Public Health (Under Construction)
-
-During my Ph.D., I collaborated with clinicians in the 
-[Multicenter AIDS Cohort Study](https://aidscohortstudy.org) 
-to better understand differences in physical activity and 
-[heart health](https://pubmed.ncbi.nlm.nih.gov/31707799/) 
-between men living with and without HIV.
-
-## Data Science (Under Construction)
-
-I work on posture classification with chest-worn accelerometers, often embedded in ECG patches, as a means to contextualize cardiac activity. 
-
-Check out some interactive plots I made here [here](https://etzkorn.github.io/Images/Interactive_Plots/FullSphere_ChangePoint.html).
-
-I am currently working on an R package with a vignette which I will link here in the coming months,
-but for now I will just leave you with an interactive `plotly` graphic that shows the kind of data stucture we use for classifying posture.
-
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://etzkorn.github.io/Interactive_Plots/sphere3.html" height="600" width="100%"></iframe>
-
-## Biostatistics (Under Construction)
-
 As an undergraduate at Saint Olaf College, I got to be a part of an innovative course designed by 
 [Paul Roback and Julie Legler](https://bookdown.org/roback/bookdown-BeyondMLR/).
 
-For three years during graduate school, I worked with Elizabeth Colantuoni and Scott Zeger as TA for the JHSPH combined series of Longitudinal Data Analysis and Multilevel Models. 
-As a part of my dissertation research, I am working with Dr. Colantuoni on developing new functions within [`frailtypack`](https://cran.r-project.org/web/packages/frailtypack/index.html) 
-for the joint modelling of multiple recurrent event and survival outcomes.
-We think these kinds of models will be important for clinical trials conducted within Intensive Care Units (ICUs).
 
